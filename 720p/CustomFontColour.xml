@@ -30,7 +30,9 @@
 				<onright>450</onright>
 				<onup>450</onup>
 				<ondown>450</ondown>
+								
 				<visible>system.getbool(input.enablemouse)</visible>
+				<visible>false</visible>
 			</control>
 			<control type="label">
 				<left>380r</left>

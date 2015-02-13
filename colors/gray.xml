@@ -4,6 +4,6 @@
 	<color name="grey2">FF999999</color>
 	<color name="grey3">FF505050</color>
 	<color name="black">FF000000</color>
-	<color name="blue">FFFFFFFF</color>
-	<color name="selected">FFEB9E17</color>
+	<color name="blue">FF3399BB</color>
+	<color name="selected">FF66BBCC</color>
 </colors>
